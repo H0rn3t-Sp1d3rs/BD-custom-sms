@@ -1,5 +1,5 @@
 # BD-custom-sms
-bd custom sms sender.
+BD CUSTOM SMS SENDER.
 
-#code by H0RN3T SP1D3RS
-#BADS COMMUNITY 
+Code By H0RN3T SP1D3RS
+BADS COMMUNITY 
